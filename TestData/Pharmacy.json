@@ -1,0 +1,20 @@
+{
+    "Fields": [
+      {
+        "ItemName": "Test"
+      },
+      {
+        "batchNoField": "1234"
+      },
+      {
+        "itemQtyField": "2"
+      },
+      {
+        "rateField": "24"
+      },
+      {
+        "supplierNameField": "Ashar & Company"
+      }
+    ]
+  }
+  

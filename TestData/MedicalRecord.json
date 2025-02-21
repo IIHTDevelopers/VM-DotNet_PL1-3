@@ -1,0 +1,10 @@
+{
+    "DateRange": [
+      {
+        "FromDate": "01-01-2024"
+      }
+    ],
+    "PatientGender": [{ "Gender": "Female" }],
+    "DoctorName": [{ "Doctor": "Dr. ALEX OKELLO ONYIEGO" }]
+  }
+  
