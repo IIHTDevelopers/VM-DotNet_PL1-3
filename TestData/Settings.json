@@ -1,8 +1,0 @@
-{
-  "Templates": [
-    { "TextField": "test print" },
-    { "TemplateName": "Test Template" },
-    { "TemplateCode": "Temp_9898" },
-    { "TemplateType": "Discharge Summary" }
-  ]
-}
